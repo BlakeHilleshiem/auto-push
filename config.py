@@ -1,0 +1,1 @@
+commit_days=['monday','thrusday','friday','saturday']
